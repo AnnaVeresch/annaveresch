@@ -10,6 +10,9 @@
 ![JIRA](https://img.shields.io/badge/-jira-191970?style=for-the-badge&logo=jira&logoColor=FF4500)
 ![MySQL](https://img.shields.io/badge/-mysql-191970?style=for-the-badge&logo=mysql&logoColor=008080)
 ![VScode](https://img.shields.io/badge/-vscode-191970?style=for-the-badge&logo=visualstudiocode&logoColor=00BFFF)
+![QASE](https://img.shields.io/badge/-qase-191970?style=for-the-badge&logo=qase&logoColor=FFFFFF)
+![Fiddler](https://img.shields.io/badge/-fiddler-191970?style=for-the-badge&logo=fiddler&logoColor=FFFFFF)
+![Devtools](https://img.shields.io/badge/-devtools-191970?style=for-the-badge&logo=devtools&logoColor=FFFFFF)
 
 
 Follow me
