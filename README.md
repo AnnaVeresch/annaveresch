@@ -6,7 +6,9 @@
 ### Languades and Tools
 ![Postman](https://img.shields.io/badge/-Postman-191970?style=for-the-badge&logo=postman&logoColor=FF4500)
 ![Charles](https://img.shields.io/badge/-Charles-191970?style=for-the-badge&logo=charles&logoColor=FFFFFF)
-![PAndroid Studio](https://img.shields.io/badge/-Android_Studio-191970?style=for-the-badge&logo=androidstudio&logoColor=008000)
+![Android Studio](https://img.shields.io/badge/-Android_Studio-191970?style=for-the-badge&logo=androidstudio&logoColor=008000)
+![JIRA](https://img.shields.io/badge/-jira-191970?style=for-the-badge&logo=jira&logoColor=FF4500)
+![MySQL](https://img.shields.io/badge/-mysql-191970?style=for-the-badge&logo=mysql&logoColor=008080)
 
 
 Follow me
