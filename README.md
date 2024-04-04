@@ -9,6 +9,7 @@
 ![Android Studio](https://img.shields.io/badge/-Android_Studio-191970?style=for-the-badge&logo=androidstudio&logoColor=008000)
 ![JIRA](https://img.shields.io/badge/-jira-191970?style=for-the-badge&logo=jira&logoColor=FF4500)
 ![MySQL](https://img.shields.io/badge/-mysql-191970?style=for-the-badge&logo=mysql&logoColor=008080)
+![VScode](https://img.shields.io/badge/-vscode-191970?style=for-the-badge&logo=visualstudiocode&logoColor=00BFFF)
 
 
 Follow me
