@@ -15,4 +15,6 @@
 ![Devtools](https://img.shields.io/badge/-devtools-191970?style=for-the-badge&logo=devtools&logoColor=FFFFFF)
 
 
-Follow me
+### Follow me
+![Telegram](https://img.shields.io/badge/-telegram-191970?style=for-the-badge&logo=telegram&logoColor=00BFFF)
+![Instagram](https://img.shields.io/badge/-instagram-191970?style=for-the-badge&logo=instagram&logoColor=8B008B)
